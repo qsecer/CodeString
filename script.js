@@ -52,17 +52,5 @@ button.addEventListener('click', function (){
 p.textContent = CodeString(inp.value)
 })
 
-// function centResult(str) {
-//     let resultP = document.querySelector('.result');
-//     resultP.textContent = str
-//
-// }
-// function getInputValue (){
-//     const inputElement = document.getElementById('myInput');
-//     const inputValue = inputElement.value;
-//
-// }
-// let resultP = document.querySelector('.result');
-// resultP.textContent = CodeString(document.getElementById('myInput').value);
 
 
