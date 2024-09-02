@@ -1,2 +1,2 @@
-[сслылка на сайт]([index.html](https://github.com/qsecer/qsecer.github.io))
+[сслылка на сайт](https://qsecer.github.io/)
 
