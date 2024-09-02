@@ -1,2 +1,2 @@
-[сслылка на сайт](https://github.com/qsecer/qsecerCodeStringgithub.io)
+[сслылка на сайт](index.html)
 
